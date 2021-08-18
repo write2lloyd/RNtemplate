@@ -13,3 +13,7 @@ Custom react-native-template with the following
 - "redux-flipper"
 - "redux-persist"
 - "redux-thunk"
+
+
+Fire the following command for a new app with the above.
+``npx react-native init SomeApp --template https://github.com/write2lloyd/RNtemplate``
